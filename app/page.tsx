@@ -18,7 +18,7 @@ export default function Home() {
           Encontrá tu próxima propiedad
         </h2>
         <p className="mt-4 text-lg">
-          Compra, venta y alquiler en Balcarce
+          Compra, Venta y Alquiler en Balcarce, Mar del Plata
         </p>
 
         <button className="mt-6 bg-black text-white px-6 py-3 rounded-xl">
