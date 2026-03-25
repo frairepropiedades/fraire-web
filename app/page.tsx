@@ -11,7 +11,7 @@ export default function Home() {
           href="https://wa.me/5492235447849"
           className="mt-6 inline-block rounded-xl bg-[#A65E3B] px-6 py-3 text-white"
         >
-          Consultanos por WhatsApp para comprar o vender'
+          Consultanos por WhatsApp para comprar o vender
         </a>
       </div>
     </main>
