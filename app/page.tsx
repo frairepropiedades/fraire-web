@@ -4,14 +4,14 @@ export default function Home() {
       <div className="text-center">
         <h1 className="text-3xl font-bold">Estamos actualizando el sitio</h1>
         <p className="mt-4">
-          En breve vas a poder ver nuestras propiedades online.
+          Próximamente nuestro sitio online.
         </p>
 
         <a
           href="https://wa.me/5492235447849"
           className="mt-6 inline-block rounded-xl bg-[#A65E3B] px-6 py-3 text-white"
         >
-          Contactar por WhatsApp
+          Consultanos por WhatsApp para comprar o vender'
         </a>
       </div>
     </main>
